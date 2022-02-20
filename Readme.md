@@ -1,5 +1,7 @@
 # Stripe Integration 
 
+All you need to add payment integrations to your website, mobile apps. All stripe methods used are available to be used in canada. 
+
 ## Frontend
 Nodejs - vue-stripe-elements-plus
 Vuejs / Javascript
